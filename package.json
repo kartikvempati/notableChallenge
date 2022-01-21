@@ -1,0 +1,14 @@
+{
+  "name": "notablechallenge",
+  "version": "1.0.0",
+  "description": "notable health coding challenege ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kartik Vempati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
